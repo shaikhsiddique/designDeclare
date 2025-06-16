@@ -1,38 +1,57 @@
-.App {
-  text-align: center;
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+/* Font configurations */
+@font-face {
+  font-family: 'KFOlCnqEu92Fr1MmEU9fBBc4';
+  src: url('../public/KFOlCnqEu92Fr1MmEU9fBBc4.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+  font-family: 'KFOmCnqEu92Fr1Mu4mxK';
+  src: url('../public/KFOmCnqEu92Fr1Mu4mxK.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@font-face {
+  font-family: 'A34f9d1faa5f3315';
+  src: url('../public/a34f9d1faa5f3315-s.p.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@font-face {
+  font-family: '02d3a08a6b5f7bc1';
+  src: url('../public/02d3a08a6b5f7bc1-s.p.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
-.App-link {
-  color: #61dafb;
+/* Global styles */
+body {
+  margin: 0;
+  width: "full";
+  overflow-x: hidden;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.page1 .left h3{
+    font-family: '02d3a08a6b5f7bc1';
+}
+.page1 .left h4{
+  font-family: 'KFOlCnqEu92Fr1MmEU9fBBc4';
+}
+.footer .title h4{
+  font-family: '02d3a08a6b5f7bc1';
 }

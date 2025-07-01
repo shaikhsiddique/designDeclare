@@ -55,7 +55,8 @@ It was a great opportunity to blend **technical implementation** with **visual d
 git clone https://github.com/shaikhsiddique/design-declares-clone.git
 cd design-declares-clone
 npm install
-npm run dev
+npm start
+
 ```
 
 ---

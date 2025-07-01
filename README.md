@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# 🎨 Design Declares UK – React Frontend Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Project Screenshot](https://drive.google.com/uc?id=1AE-7v9yL-Q8VBPRY7hWyHc2_vTf7v6os)](https://design-declares-clone.netlify.app/)
 
-## Available Scripts
+**Live Site**: [design-declares-clone.netlify.app](https://lnkd.in/dTvht4aj)  
+**GitHub Repo**: [github.com/shaikhsiddique/design-declares-clone](https://lnkd.in/dz83JWDY)  
+**Portfolio**: [Siddique Shaikh's Portfolio](https://lnkd.in/dDggpFqb)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🛠️ Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React.js**
+- **Tailwind CSS**
+- **GSAP (GreenSock Animation Platform) + useGSAP**
+- **Remix Icons**
+- **Deployed on Netlify**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ✨ About the Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Challenged by Design. Driven by Code.**  
+This project is a frontend recreation of the bold, animated aesthetic of the Design Declares UK website.
 
-### `npm run build`
+It’s not just about layout — it’s about **capturing movement, mood, and minimalism** through code.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📸 Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- ⚡ Smooth animations and scroll effects using GSAP and useGSAP
+- 💻 Responsive design across all devices
+- 🎨 Typography and layout matching the original inspiration
+- 🌈 Remix Icons for minimal and elegant iconography
+- 🔁 Performance-optimized for fast loading and transitions
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🧠 What I Learned
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project pushed me to pay close attention to:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- 🕒 Animation timing and sequencing
+- 🔤 Font scaling and typography consistency
+- 📱 Layout responsiveness across screen sizes
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+It was a great opportunity to blend **technical implementation** with **visual design thinking**.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📦 Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+git clone https://github.com/shaikhsiddique/design-declares-clone.git
+cd design-declares-clone
+npm install
+npm run dev
+```
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📁 Download
 
-### Analyzing the Bundle Size
+[Click here to download the ZIP](https://github.com/shaikhsiddique/design-declares-clone/archive/refs/heads/main.zip)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 💬 Connect With Me
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+I'm always open to feedback, ideas, and collaborations.  
+Let’s build more visually stunning and interactive web experiences together!
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
